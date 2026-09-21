@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Host: https://lexcargo-group.com
-Sitemap: https://lexcargo-group.com/sitemap.xml
+Sitemap: https://lexcargogroup.com.ua/sitemap.xml
